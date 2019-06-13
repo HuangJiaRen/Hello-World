@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mix-study/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/interrupt/InterruptThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/META-INF/study.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/Audi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/Benz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/Bmw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/abstr/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/abstr/AbstractFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/abstr/AudiFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/abstr/BenzFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/abstr/BmwFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/abstr/DefaultFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/func/AudiFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/func/BenzFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/func/BmwFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/func/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/func/FactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/simple/SimpleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/factory/simple/SimpleFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/jdk8/CollectorsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/jdk8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/jdk8/Streams$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/jdk8/Streams$Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/jdk8/Streams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/out/production/study/com/xdf/huangli/jdk8/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/Audi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/Benz.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/Benz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/abstr/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/abstr/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/abstr/AbstractFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/abstr/AbstractFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/abstr/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/abstr/AudiFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/abstr/BenzFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/abstr/BenzFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/abstr/BmwFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/abstr/BmwFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/abstr/DefaultFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/abstr/DefaultFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/func/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/func/AudiFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/func/BenzFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/func/BenzFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/func/BmwFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/func/BmwFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/func/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/func/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/func/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/func/FactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/simple/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/simple/SimpleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/factory/simple/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/factory/simple/SimpleFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/jdk8/CollectorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/CollectorsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/jdk8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/jdk8/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/com/xdf/huangli/jdk8/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,9 +13,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Streams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -86,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/interrupt/InterruptThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -158,6 +112,33 @@
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
               <item name="mix-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huangli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huangli" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -169,12 +150,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560436499837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560437046842" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sport-api-parent" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,6 +175,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.jdk8.Streams" />
+      <module name="mix-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xdf.huangli.jdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Streams" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -210,14 +211,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1384" height="744" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -228,7 +229,7 @@
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.39016393" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -304,7 +305,7 @@
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/interrupt/InterruptThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -316,7 +317,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
