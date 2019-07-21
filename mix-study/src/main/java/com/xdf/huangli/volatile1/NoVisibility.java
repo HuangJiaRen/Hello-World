@@ -2,7 +2,7 @@ package com.xdf.huangli.volatile1;
 
 /**
  * @uthor huangli
- * @description
+ * @description volatile保证了线程的可见性
  * @date 2019/7/7 9:58
  */
 public class NoVisibility {

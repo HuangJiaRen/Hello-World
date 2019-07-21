@@ -4,7 +4,8 @@ public class InterruptThread{
 
 	public static void main(String[] args) {
 		Thread t1 = new Thread(){
-			public void run(){
+			@Override
+            public void run(){
 
 			}
 		};

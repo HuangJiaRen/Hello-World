@@ -2,7 +2,7 @@ package com.xdf.huangli.synchronized1;
 
 /**
  * @uthor huangli
- * @description
+ * @description i的值会存在小于2000000的情况
  * @date 2019/7/16 22:46
  */
 public class AccountingVo1 implements Runnable {
