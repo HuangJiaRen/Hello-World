@@ -1,5 +1,8 @@
 package com.xdf.huangli.thread;
 
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
 public class TestThread {
     public static void main(String[] args) throws InterruptedException {
         Thread thread1 = new Thread(){
@@ -25,11 +28,17 @@ public class TestThread {
             }
         };
 
-        thread1.start();
-        thread1.join();
-        thread2.start();
-        thread2.join();
-        thread3.start();
-        thread3.join();
+//        thread1.start();
+//        thread1.join();
+//        thread2.start();
+//        thread2.join();
+//        thread3.start();
+//        thread3.join();
+
+        ExecutorService executorService = Executors.newSingleThreadExecutor();
+        executorService.submit(thread1);
+        executorService.submit(thread2);
+        executorService.submit(thread3);
+        executorService.shutdown();
     }
 }
