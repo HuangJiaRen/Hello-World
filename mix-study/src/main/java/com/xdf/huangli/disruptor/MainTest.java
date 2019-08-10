@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 /**
  * @author huangli
  * @version 1.0
- * @description TODO
+ * @description main方法类
  * @date 2019-08-09 23:13
  */
 public class MainTest {
