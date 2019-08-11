@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/cpuCache/FalseSharing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/FutureMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/RealData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/guava/FutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/RealData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
@@ -18,11 +24,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/cpuCache/FalseSharing.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="232">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/RealData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding>
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/FutureMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,35 +61,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="287" column="7" lean-forward="true" selection-start-line="287" selection-start-column="7" selection-end-line="287" selection-end-column="7" />
+            <state relative-caret-position="167">
+              <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar!/com/apple/laf/AquaMenuPainter.class">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/Consumer.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="-626">
+              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/Producer.java">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/guava/FutureDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,50 +97,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/thread/ThreadTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="160">
+              <caret line="1061" column="39" selection-start-line="1061" selection-start-column="39" selection-end-line="1061" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/thread/TestThread.java">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/RealData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/ThreadPoolDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadlocal/ThreadLocalDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            <state relative-caret-position="225">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -119,6 +133,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -173,6 +188,14 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/atomticInteger/AtomicIntegerDemo.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/atomticInteger/AtomicStampedReferenceDemo.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/cpuCache/FalseSharing.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/Data.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/Client.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/RealData.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/MainTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureData.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/RealData.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/FutureMain.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/guava/FutureDemo.java" />
       </list>
     </option>
   </component>
@@ -251,7 +274,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="disruptor" type="462c0819:PsiDirectoryNode" />
+              <item name="callable" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
@@ -261,8 +284,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="disruptor" type="462c0819:PsiDirectoryNode" />
-              <item name="cpuCache" type="462c0819:PsiDirectoryNode" />
+              <item name="callable" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
@@ -308,20 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FalseSharing">
-    <configuration name="DirectExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.guava.DirectExecutorTest" />
-      <module name="mix-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.guava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FutureMain">
     <configuration name="FalseSharing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.disruptor.cpuCache.FalseSharing" />
       <module name="mix-study" />
@@ -335,12 +345,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JMHSample_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.jmh.JMHSample_01_HelloWorld" />
+    <configuration name="FutureMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.callable.FutureMain" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.jmh.*" />
+          <option name="PATTERN" value="com.xdf.huangli.callable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.future.MainTest" />
+      <module name="mix-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xdf.huangli.future.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,11 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FutureMain" />
+        <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.FalseSharing" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.ThreadLocalDemo" />
-        <item itemvalue="Application.JMHSample_01_HelloWorld" />
-        <item itemvalue="Application.DirectExecutorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +421,7 @@
       <workItem from="1563632442857" duration="7843000" />
       <workItem from="1564235570586" duration="7544000" />
       <workItem from="1564387145946" duration="3982000" />
-      <workItem from="1565451383865" duration="1050000" />
+      <workItem from="1565451383865" duration="6721000" />
     </task>
     <task id="LOCAL-00001" summary="修改idea">
       <created>1562809486529</created>
@@ -428,11 +451,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564583877312</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CPU cache的优化，解决伪共享问题">
+      <created>1565487428682</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565487428682</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23623000" />
+    <option name="totallyTimeSpent" value="29294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -448,8 +478,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40722892" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36506024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2879518" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36506024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -557,30 +587,10 @@
     <MESSAGE value="提交线程池学习demo:guava+JMH" />
     <MESSAGE value="CAS类学习" />
     <MESSAGE value="CAS类学习 atomic包" />
-    <option name="LAST_COMMIT_MESSAGE" value="CAS类学习 atomic包" />
+    <MESSAGE value="CPU cache的优化，解决伪共享问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="CPU cache的优化，解决伪共享问题" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/FairLock.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/ReadWriteLockDemo.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/ReenterLock.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/SemapDemo.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/TimeLock.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadFactory.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/Executor.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ScheduledExecutorService.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/rejectThread/RejectThreadPoolDemo.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ExecutorService.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadFactory/ThreadFactoryTest.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/Executors.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/CachedThreadlDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java" />
@@ -745,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="287" column="7" lean-forward="true" selection-start-line="287" selection-start-column="7" selection-end-line="287" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar!/com/apple/laf/AquaMenuPainter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -769,7 +772,137 @@
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/cpuCache/FalseSharing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/javax/xml/crypto/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#288#455#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/RealData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/synchronized1/AccountingSycn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/utilities/soql/Callable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/RealData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/FutureMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/callable/guava/FutureDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1061" column="39" selection-start-line="1061" selection-start-column="39" selection-end-line="1061" selection-end-column="39" />
         </state>
       </provider>
     </entry>
