@@ -17,17 +17,17 @@ public class StringAnaly {
     public static void main(String[] args) {
 //        String str = "<nn></nn>dfsdfdfs<nn></nn><mn></mn>fdsfrtty<mn></mn>fdsf4fdsf<nn></nn>fds45";
 //        String str = "dfsdfdfs<nn>1</nn><wn>2</wn>fdsfrtty<wn></wn>fdsf4fdsf<nn></nn>fds45<nn></nn>";
-        String str = "<indent>霍测试复合题，小问有空的有不空的<br />Alfred Nobel was born in Stockholm, Sweden," +
-                "on October 21, 1853 but moved to Russia with his parents in 1842, where his father " +
-                "made a strong position for himself in the engineering industry, but unfortunately went " +
-                "bankrupt few years later. Nobel had never been to school or university," +
-                " but had studied <wn>1</wn> (private) and became a skillful chemist and excellent " +
-                "linguist, <wn>2</wn> <span style=\"text-indent: 2em;\">(speak) Swedish, Russian, " +
-                "German, French and English. Unlike his father, he had better luck in business " +
-                "and showed more <wn>3</wn></span> <span style=\"text-indent: 2em;\"> (finance) sense. </span></indent>";
+//        String str = "<indent>霍测试复合题，小问有空的有不空的<br />Alfred Nobel was born in Stockholm, Sweden," +
+//                "on October 21, 1853 but moved to Russia with his parents in 1842, where his father " +
+//                "made a strong position for himself in the engineering industry, but unfortunately went " +
+//                "bankrupt few years later. Nobel had never been to school or university," +
+//                " but had studied <wn>1</wn> (private) and became a skillful chemist and excellent " +
+//                "linguist, <wn>2</wn> <span style=\"text-indent: 2em;\">(speak) Swedish, Russian, " +
+//                "German, French and English. Unlike his father, he had better luck in business " +
+//                "and showed more <wn>3</wn></span> <span style=\"text-indent: 2em;\"> (finance) sense. </span></indent>";
 //        String str = "<mn></mn><mn></mn>dfsdfdfs<nn></nn><mn></mn>fdsfrtty<mn></mn>fdsf4fdsf<nn></nn>fds45";
-//        String str = "<mn></mn>dfsdfdfs<nn></nn><mn></mn>fdsfrtty<mn></mn>fdsf4fdsf<nn></nn>fds45<nn></nn>";
-//        String str = "<nn></nn><nn></nn>dfsdfdfs<nn></nn><mn></mn>fdsfrtty<mn></mn>fdsf4fdsf<nn></nn>fds45<mn></mn><mn></mn>";
+        String str = "<wn></wn>dfsdfdfs<wn></wn><wn></wn>fdsfrtty<wn></wn>fdsf4fdsf<wn></wn>fds45<wn></wn>";
+//        String str = "<nn></nn><nn></nn>dfsdfdfs<nn></nn><nn></nn>fdsfrtty<nn></nn>fdsf4fdsf<nn></nn>fds45<nn></nn><nn></nn>";
 
         //一.解析<wn标签，增加切个符号#@#
         String[] arrStr = str.split("<wn");
