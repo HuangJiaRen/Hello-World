@@ -18,4 +18,6 @@ public interface BaseEntry<K,V> {
      * @return
      */
     V getValue();
+
+    void setValue(V v);
 }

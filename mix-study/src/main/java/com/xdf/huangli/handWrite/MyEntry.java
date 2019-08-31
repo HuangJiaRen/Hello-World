@@ -26,4 +26,18 @@ public class MyEntry<K, V> implements BaseEntry <K, V>{
     public V getValue() {
         return v;
     }
+
+    @Override
+    public void setValue(V v) {
+        this.v = v;
+    }
+
+    public MyEntry<K, V> getNext() {
+        return next;
+    }
+
+    public void setNext(MyEntry<K, V> next) {
+        this.next = next;
+    }
+
 }
