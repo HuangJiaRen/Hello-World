@@ -17,40 +17,28 @@ public class StringAnaly {
     public static void main(String[] args) {
 //        String str = "<nn></nn>dfsdfdfs<nn></nn><mn></mn>fdsfrtty<mn></mn>fdsf4fdsf<nn></nn>fds45";
 //        String str = "dfsdfdfs<nn>1</nn><wn>2</wn>fdsfrtty<wn></wn>fdsf4fdsf<nn></nn>fds45<nn></nn>";
-        String str = "<indent>霍测试复合题，小问有空的有不空的<br />Alfred Nobel was born in Stockholm, Sweden," +
-                "on October 21, 1853 but moved to Russia with his parents in 1842, where his father " +
-                "made a strong position for himself in the engineering industry, but unfortunately went " +
-                "bankrupt few years later. Nobel had never been to school or university," +
-                " but had studied <wn>1</wn> (private) and became a skillful chemist and excellent " +
-                "linguist, <wn>2</wn> <span style=\"text-indent: 2em;\">(speak) Swedish, Russian, " +
-                "German, French and English. Unlike his father, he had better luck in business " +
-                "and showed more <wn>3</wn></span> <span style=\"text-indent: 2em;\"> (finance) sense. </span></indent>";
-//        String str = "<mn></mn><mn></mn>dfsdfdfs<nn></nn><mn></mn>fdsfrtty<mn></mn>fdsf4fdsf<nn></nn>fds45";
+//        String str = "<indent>霍测试复合题，小问有空的有不空的<br />Alfred Nobel was born in Stockholm, Sweden," +
+//                "on October 21, 1853 but moved to Russia with his parents in 1842, where his father " +
+//                "made a strong position for himself in the engineering industry, but unfortunately went " +
+//                "bankrupt few years later. Nobel had never been to school or university," +
+//                " but had studied <wn>1</wn> (private) and became a skillful chemist and excellent " +
+//                "linguist, <wn>2</wn> <span style=\"text-indent: 2em;\">(speak) Swedish, Russian, " +
+//                "German, French and English. Unlike his father, he had better luck in business " +
+//                "and showed more <wn>3</wn></span> <span style=\"text-indent: 2em;\"> (finance) sense. </span></indent>";
+//        String str = "dfsdfdfs<nn></nn><wn></wn>fdsfrtty<wn></wn>fdsf4fdsf<nn></nn>fds45";
 //        String str = "<wn></wn>dfsdfdfs<wn></wn><wn></wn>fdsfrtty<wn></wn>fdsf4fdsf<wn></wn>fds45<wn></wn>";
 //        String str = "<nn></nn><nn></nn>dfsdfdfs<nn></nn><nn></nn>fdsfrtty<nn></nn>fdsf4fdsf<nn></nn>fds45<nn></nn><nn></nn>";
+//        String str = "dfsdfdfs";
+        String str = "dfsd<nn></nn>fdfs<wn></wn>";
 
         //一.解析<wn标签，增加切个符号#@#
         String[] arrStr = str.split("<wn");
         StringBuilder sb = new StringBuilder();
 
         if(null != arrStr && arrStr.length > 0){
-            //是否以<wn开头
-            boolean startBool = null == arrStr[0] || "".equals(arrStr[0]);
-
-            //1.以<wn开头时，补全标签<wn
-            if(startBool){
-                sb.append("#@#<wn");
-            }
 
             for (int i = 0; i < arrStr.length; i++) {
-//                System.out.println(arrStr[i]);
-                //2.以<wn开头时，步骤1已经拼接完头部，所以从第三个元素判断补全标签
-                if(startBool && i > 1 && arrStr[i].contains("</wn>")){
-                    sb.append("#@#<wn");
-                }
-
-                //3.不是以<wn开头时，依次判断元素补全标签
-                if(startBool == false && arrStr[i].contains("</wn>")){
+                if(arrStr[i].contains("</wn>")){
                     sb.append("#@#<wn");
                 }
 
@@ -66,23 +54,9 @@ public class StringAnaly {
             sb = new StringBuilder();
 
             if(null != nnArrStr && nnArrStr.length > 0){
-                //是否以<nn开头
-                boolean nnStartBool = null == nnArrStr[0] || "".equals(nnArrStr[0]);
-
-                //4.以<nn开头时，补全标签<nn
-                if(nnStartBool){
-                    sb.append("#@#<nn");
-                }
 
                 for (int i = 0; i < nnArrStr.length; i++) {
-//                    System.out.println(nnArrStr[i]);
-                    //5.以<nn开头时，步骤1已经拼接完头部，所以从第三个元素判断补全标签
-                    if(nnStartBool && i > 1 && nnArrStr[i].contains("</nn>")){
-                        sb.append("#@#<nn");
-                    }
-
-                    //6.不是以<nn开头时，依次判断元素补全标签
-                    if(nnStartBool == false && nnArrStr[i].contains("</nn>")){
+                    if(nnArrStr[i].contains("</nn>")){
                         sb.append("#@#<nn");
                     }
 

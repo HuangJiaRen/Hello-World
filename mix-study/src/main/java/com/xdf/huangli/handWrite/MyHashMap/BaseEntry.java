@@ -1,4 +1,4 @@
-package com.xdf.huangli.handWrite;
+package com.xdf.huangli.handWrite.MyHashMap;
 
 /**
  * @author huangli
