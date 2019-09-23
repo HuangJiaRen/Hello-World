@@ -40,6 +40,11 @@ public class MyArrayList<T> {
         ensureCapacity(DEFAULT_CAPACITY);
     }
 
+    /**
+     * 添加元素
+     * @param t
+     * @return
+     */
     public boolean add(T t){
         add(size(), t);
         return true;
@@ -63,6 +68,10 @@ public class MyArrayList<T> {
         return size;
     }
 
+    /**
+     * 数组大小
+     * @param newSize
+     */
     public void ensureCapacity(int newSize) {
         if(newSize < size()){
             return;
@@ -77,6 +86,11 @@ public class MyArrayList<T> {
         }
     }
 
+    /**
+     * 获取元素
+     * @param index
+     * @return
+     */
     public T get(int index){
         if(index < 0 || index >= size){
             return null;
@@ -96,6 +110,11 @@ public class MyArrayList<T> {
         return true;
     }
 
+    /**
+     * 删除元素
+     * @param index
+     * @return
+     */
     public Object remove(int index){
         if(index < 0 || index > size()){
             return null;
@@ -116,8 +135,11 @@ public class MyArrayList<T> {
         arrayList.add("b");
         arrayList.add("c");
 
+        arrayList.remove("a");
+
         for (int i = 0; i < arrayList.size(); i++) {
             System.out.println(arrayList.get(i));
         }
+
     }
 }
