@@ -1,4 +1,4 @@
-package com.xdf.huangli.threadlocal;
+package com.xdf.huangli.countdownatch;
 
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;

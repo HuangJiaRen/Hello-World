@@ -1,4 +1,4 @@
-package com.xdf.huangli.threadlocal;
+package com.xdf.huangli.countdownatch;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
