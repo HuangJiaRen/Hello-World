@@ -21,10 +21,10 @@ package com.xdf.huangli.leetCode;
  */
 public class AddTwoNumbers {
     public static void main(String[] args) {
-//        int a = 8;
-//        int b = 4;
-//        System.out.println(a / b);
-//        System.out.println(a % b);
+        int a = 3;
+        int b = 4;
+        System.out.println(a / b);
+        System.out.println(a % b);
 
         ListNode l1 = new ListNode(5);
         l1.next = new ListNode(6);
