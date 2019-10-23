@@ -38,10 +38,10 @@ public class FindMedianSortedArrays {
         double midNum = 0f;
         if(a == 0){
             int mid = len / 2;
-             midNum = Double.valueOf((nums1[mid - 1] + nums1[mid])) / 2;
+             midNum = (nums1[mid - 1] + nums1[mid]) / 2.0;
         } else {
             int mid = len / 2;
-             midNum = Double.valueOf(nums1[mid]);
+             midNum = nums1[mid];
         }
 
         System.out.println( midNum);
