@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="CAS类学习 atomic包">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mix-study/mix-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/mix-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/META-INF/BenchmarkList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/META-INF/CompilerHints" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/META-INF/mix-study.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/jmh/JMHSample_01_HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType_B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType_B2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType_B3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_wellHelloThere_jmhTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,26 +45,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/LengthOfLongestSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="418">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsPalindrome.java">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+            <state relative-caret-position="433">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsMatch.java">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="-292">
+              <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -89,6 +97,7 @@
       <find>wait(</find>
       <find>remove</find>
       <find>countDo</find>
+      <find>min</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli</dir>
@@ -106,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/ReenterLock.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/IntLock.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/TimeLock.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/FairLock.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/SemapDemo.java" />
@@ -157,6 +164,8 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MyAtoi.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsPalindrome.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsMatch.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java" />
       </list>
     </option>
   </component>
@@ -195,6 +204,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,8 +267,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,7 +305,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsMatch">
+  <component name="RunManager" selected="Application.IntToRoman">
+    <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.IntToRoman" />
+      <module name="mix-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xdf.huangli.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.IsMatch" />
       <module name="mix-study" />
@@ -310,21 +332,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.IsPalindrome" />
-      <module name="mix-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.LongestPalindrome" />
+    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.MaxArea" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
@@ -364,11 +373,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntToRoman" />
+        <item itemvalue="Application.MaxArea" />
         <item itemvalue="Application.IsMatch" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MyAtoi" />
-        <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +427,22 @@
       <workItem from="1575616622496" duration="2529000" />
       <workItem from="1575683979448" duration="3088000" />
       <workItem from="1575698684997" duration="3015000" />
-      <workItem from="1575854740887" duration="6091000" />
+      <workItem from="1575854740887" duration="6654000" />
+      <workItem from="1575882270223" duration="1579000" />
+      <workItem from="1575955988206" duration="1409000" />
+      <workItem from="1578528329975" duration="1626000" />
+      <workItem from="1578624487302" duration="60000" />
+      <workItem from="1578624624495" duration="488000" />
+      <workItem from="1578632264942" duration="171000" />
+      <workItem from="1578636826680" duration="358000" />
+      <workItem from="1578907703562" duration="1411000" />
+      <workItem from="1578980157672" duration="1660000" />
+      <workItem from="1579053050836" duration="935000" />
+      <workItem from="1579137822742" duration="537000" />
+      <workItem from="1579139435661" duration="7068000" />
+      <workItem from="1579223950411" duration="1414000" />
+      <workItem from="1579252999394" duration="601000" />
+      <workItem from="1579504917691" duration="17206000" />
     </task>
     <task id="LOCAL-00001" summary="修改idea">
       <created>1562809486529</created>
@@ -557,7 +581,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205473000" />
+    <option name="totallyTimeSpent" value="242559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,7 +596,7 @@
     <frame x="-200" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18956336" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1687966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -588,9 +612,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3962008" />
       <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.40027136" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.22277227" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.2881188" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.0960396" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.35539567" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.2089109" />
@@ -723,7 +747,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>l=3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Math.min(height[l],  height[r])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.min(height[l],  height[r] ) * (r -1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>pattern.substring(1)</expression-string>
         <language-id>JAVA</language-id>
@@ -757,8 +798,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyHashMap/MyMap.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyArrayList/MyArrayList.java" />
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyHashMap/BaseEntry.java" />
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyHashMap/MyEntry.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/javafx-src.zip!/com/sun/glass/ui/EventLoop.java">
@@ -881,17 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-          <folding>
-            <element signature="e#49043#49044#0" expanded="true" />
-            <element signature="e#49082#49083#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/CollectorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -982,20 +1010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -1003,10 +1017,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
+          <folding>
+            <element signature="e#49043#49044#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="462">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
         </state>
       </provider>
     </entry>
