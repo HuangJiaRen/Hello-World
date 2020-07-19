@@ -40,6 +40,7 @@ public class FutureTest {
     static class RpcService{
         Map<String, String> getRpcResult() throws Exception{
             //调用远程方法（远程方法耗时约10ms, 可以使用Thread.sleep模拟）
+            System.out.println("100");
             Thread.sleep(100);
             return null;
         }
@@ -48,6 +49,7 @@ public class FutureTest {
     static class HttpService{
         Integer getHttpResult() throws Exception{
             //调用远程方法（远程方法耗时约20ms, 可以使用Thread.sleep模拟）
+            System.out.println("200");
             Thread.sleep(200);
             return null;
         }
