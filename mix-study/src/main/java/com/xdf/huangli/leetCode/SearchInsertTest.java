@@ -1,5 +1,8 @@
 package com.xdf.huangli.leetCode;
 
+import java.util.HashMap;
+import java.util.Hashtable;
+
 /**
  * @author huangli
  * @version 1.0
@@ -36,6 +39,7 @@ public class SearchInsertTest {
         int target = 7;
         int insert = searchInsert(nums, target);
         System.out.println(insert);
+
     }
 
     public static int searchInsert(int[] nums, int target){

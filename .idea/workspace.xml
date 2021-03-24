@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java" line="45" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="CAS类学习 atomic包">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/mix-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/AddStringNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/CopyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_9_BUILD_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/leetCode/IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/target/classes/com/xdf/huangli/leetCode/IntToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchInsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchInsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/generated-sources/annotations/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/generated-sources/annotations/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType_B1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/generated-sources/annotations/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType_B2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/generated-sources/annotations/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_jmhType_B3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-study/target/generated-sources/annotations/com/xdf/huangli/jmh/generated/JMHSample_01_HelloWorld_wellHelloThere_jmhTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,12 +53,99 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="184">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/lib/dt.jar!/sun/swing/BeanInfoUtils.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/CopyStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/PCData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -60,7 +169,6 @@
       <find>size()</find>
       <find>segments.length</find>
       <find>size(</find>
-      <find>set(</find>
       <find>increment</find>
       <find>compareAndSwapInt</find>
       <find>HashMap</find>
@@ -70,6 +178,12 @@
       <find>remove</find>
       <find>countDo</find>
       <find>min</find>
+      <find>waiting</find>
+      <find>nextPermutation</find>
+      <find>set(</find>
+      <find>put(</find>
+      <find>add(</find>
+      <find>优先级</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli</dir>
@@ -87,30 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/TimeLock.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/FairLock.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/SemapDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/ReadWriteLockDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/ThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/CachedThreadlDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/ScheduledExecutorServiceDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/rejectThread/RejectThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadFactory/ThreadFactoryTest.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/guava/DirectExecutorTest.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jmh/JMHSample_01_HelloWorld.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadlocal/ThreadLocalDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/atomticInteger/AtomicIntegerDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/atomticInteger/AtomicStampedReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/HandWriteHashMap.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyMap.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/BaseMap.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/BaseEntry.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyEntry.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyHashMap.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringTest.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringUtil.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ExerciseServeImpl.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ItemInfoAndAnswerDetailVO.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/Qs.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringAnaly.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/handWrite/MyArrayList/MyArrayList.java" />
@@ -118,7 +208,6 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/future.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/BufferCharView.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/ChannelAccept.java" />
-        <option value="$PROJECT_DIR$/mix-study/pom.xml" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/ByteBufDemo.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/CompostiteBuf.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/CompositeBuf.java" />
@@ -138,6 +227,31 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/GenerateParenthesis.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MergeKLists.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SwapPairs.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/ReverseKGroup.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/DivideTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/StrStrTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/FindSubstring.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchRangeTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchInsertTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/AddStringNumTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/node/Node.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Node.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/AddStringNumTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Test2.java" />
+        <option value="$PROJECT_DIR$/mix-study/pom.xml" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/CopyStudent.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/Student.java" />
       </list>
     </option>
   </component>
@@ -161,19 +275,26 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="mix-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mix-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -230,13 +351,32 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="future" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huangli" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huangli" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,19 +388,19 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.xdf.huangli.test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test" />
       <recent name="C:\workspace\study-project\Hello-World\mix-study\src\main\java" />
       <recent name="C:\workspace\study-project\Hello-World\study\src\com\xdf\huangli\interrupt" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xdf.huangli.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,22 +415,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FutureTest">
-    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.future.FutureTest" />
-      <module name="mix-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.future.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.IsMatch" />
+  <component name="RunManager" selected="Application.DemoTest">
+    <configuration name="AddStringNumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.AddStringNumTest" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
@@ -302,8 +429,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.MaxArea" />
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.countdownatch.CountDownLatchDemo" />
+      <module name="mix-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xdf.huangli.countdownatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.test.DemoTest" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
@@ -315,12 +455,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.MyAtoi" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.node.MainTest" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.leetCode.*" />
+          <option name="PATTERN" value="com.xdf.huangli.leetCode.node.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,8 +468,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.Solution" />
+    <configuration name="TestIdea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.test.TestIdea" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
@@ -343,11 +483,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FutureTest" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MyAtoi" />
-        <item itemvalue="Application.MaxArea" />
-        <item itemvalue="Application.IsMatch" />
+        <item itemvalue="Application.DemoTest" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.AddStringNumTest" />
+        <item itemvalue="Application.TestIdea" />
+        <item itemvalue="Application.CountDownLatchDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -414,6 +554,37 @@
       <workItem from="1579252999394" duration="601000" />
       <workItem from="1579504917691" duration="17206000" />
       <workItem from="1594887739987" duration="605000" />
+      <workItem from="1595468965859" duration="506000" />
+      <workItem from="1595486369191" duration="290000" />
+      <workItem from="1596616386596" duration="6681000" />
+      <workItem from="1596764681566" duration="1975000" />
+      <workItem from="1596794580601" duration="25052000" />
+      <workItem from="1599182769387" duration="586000" />
+      <workItem from="1599203954886" duration="562000" />
+      <workItem from="1599462092119" duration="485000" />
+      <workItem from="1599721205172" duration="5192000" />
+      <workItem from="1599787233424" duration="635000" />
+      <workItem from="1599811576265" duration="382000" />
+      <workItem from="1602223175342" duration="34000" />
+      <workItem from="1602225778341" duration="5450000" />
+      <workItem from="1603086817218" duration="8000" />
+      <workItem from="1603507133116" duration="1342000" />
+      <workItem from="1603693850122" duration="2288000" />
+      <workItem from="1604368827886" duration="6000" />
+      <workItem from="1604545481643" duration="6469000" />
+      <workItem from="1605504683738" duration="24000" />
+      <workItem from="1606383840908" duration="274000" />
+      <workItem from="1606878515396" duration="123000" />
+      <workItem from="1607059851262" duration="1701000" />
+      <workItem from="1607304220930" duration="512000" />
+      <workItem from="1607390852891" duration="514000" />
+      <workItem from="1615775095175" duration="464000" />
+      <workItem from="1615794947707" duration="2810000" />
+      <workItem from="1615880999406" duration="468000" />
+      <workItem from="1615991289518" duration="5514000" />
+      <workItem from="1616380586672" duration="519000" />
+      <workItem from="1616481621624" duration="1405000" />
+      <workItem from="1616571419589" duration="508000" />
     </task>
     <task id="LOCAL-00001" summary="修改idea">
       <created>1562809486529</created>
@@ -548,11 +719,46 @@
       <option name="project" value="LOCAL" />
       <updated>1575258398365</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="数字 n 代表生成括号的对数，请你设计一个函数，用于能够生成所有可能的并且 有效的 括号组合。">
+      <created>1595148890237</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1595148890237</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update:leetcode">
+      <created>1597061398577</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1597061398578</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update:leetcode">
+      <created>1597065575216</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1597065575216</updated>
+    </task>
+    <task id="LOCAL-00023" summary="leetcode">
+      <created>1598184620737</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1598184620737</updated>
+    </task>
+    <task id="LOCAL-00024" summary="leetcode">
+      <created>1599731049350</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1599731049350</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244761000" />
+    <option name="totallyTimeSpent" value="319762000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -564,10 +770,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23962805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -577,20 +783,21 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15783133" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21686748" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10361446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25109488" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3962008" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.34457833" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.29277107" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.32409638" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.35539567" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.2089109" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.20731707" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Analysis" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -602,7 +809,7 @@
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -612,20 +819,21 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15841584" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21782178" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25247526" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3962008" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.34457833" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.29277107" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.3493976" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.35539567" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.2089109" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.20792079" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Analysis" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -691,7 +899,6 @@
     <MESSAGE value="nio学习" />
     <MESSAGE value="增加类CountDownLatchTest" />
     <MESSAGE value="CountDownLatch学习" />
-    <MESSAGE value="leetcode" />
     <MESSAGE value="AddTwoNumbers" />
     <MESSAGE value="LengthOfLongestSubstring" />
     <MESSAGE value="寻找两个有序数组的中位数" />
@@ -699,7 +906,10 @@
     <MESSAGE value="Solution" />
     <MESSAGE value="leetCode MyAtoi" />
     <MESSAGE value="leetCode:判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetCode:判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。" />
+    <MESSAGE value="数字 n 代表生成括号的对数，请你设计一个函数，用于能够生成所有可能的并且 有效的 括号组合。" />
+    <MESSAGE value="update:leetcode" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -769,144 +979,27 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2.jar!/io/netty/buffer/AbstractByteBuf.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        <state relative-caret-position="167">
+          <caret line="870" column="29" selection-start-line="870" selection-start-column="29" selection-end-line="870" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/BufferCharView.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        <state relative-caret-position="589">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/ByteBufDemo.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/CompositeBuf.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/countdownatch/CountDownLatchDemo.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/countdownatch/CountDownLatchTest.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Array.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchInsertTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/countdownatch/Parallellimit.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/TwoSum.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9956">
-          <caret line="566" column="20" selection-start-line="566" selection-start-column="20" selection-end-line="566" selection-end-column="20" />
-          <folding>
-            <element signature="e#23630#23631#0" expanded="true" />
-            <element signature="e#23684#23685#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/ChannelAccept.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="407" column="19" selection-start-line="407" selection-start-column="19" selection-end-line="407" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mySpringCloudStudy/springcloudFeignConsumer/springcloudFeignConsumer.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/LengthOfLongestSubstring.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MyAtoi.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/AddTwoNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/FindMedianSortedArrays.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/LongestPalindrome.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/ListNode.java" />
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/CollectorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadlocal/ThreadLocalTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        <state relative-caret-position="779">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="1932" column="62" selection-start-line="1932" selection-start-column="62" selection-end-line="1932" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-          <folding>
-            <element signature="e#49043#49044#0" expanded="true" />
-            <element signature="e#49082#49083#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IsMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -917,16 +1010,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SearchRangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/FindSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="62" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="133" column="8" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+          <folding>
+            <element signature="e#23630#23631#0" expanded="true" />
+            <element signature="e#23684#23685#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/atomticInteger/AtomicStampedReferenceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        <state relative-caret-position="475">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="1113" column="49" lean-forward="true" selection-start-line="1113" selection-start-column="49" selection-end-line="1113" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="227" column="25" lean-forward="true" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="25" />
+          <folding>
+            <element signature="e#3652#3653#0" expanded="true" />
+            <element signature="e#3708#3709#0" expanded="true" />
+            <element signature="e#3820#3821#0" expanded="true" />
+            <element signature="e#3855#3856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="538" column="16" lean-forward="true" selection-start-line="538" selection-start-column="16" selection-end-line="538" selection-end-column="16" />
+          <folding>
+            <element signature="e#9211#9212#0" expanded="true" />
+            <element signature="e#9245#9246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/countdownatch/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="234">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -934,114 +1102,277 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadlocal/ThreadLocalDemo.java">
+    <entry file="file://$PROJECT_DIR$/study/src/com/xdf/huangli/DaemonDemo.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        <state relative-caret-position="382">
+          <caret line="139" column="43" lean-forward="true" selection-start-line="139" selection-start-column="43" selection-end-line="139" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="1059" column="17" selection-start-line="1026" selection-start-column="33" selection-end-line="1059" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/ThreadPoolDemo.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="589">
+          <caret line="186" column="5" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#CountDownLatch#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4826">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44745">
+          <caret line="2600" column="55" selection-start-line="2600" selection-start-column="55" selection-end-line="2600" selection-end-column="55" />
+          <folding>
+            <element signature="e#102804#102805#0" expanded="true" />
+            <element signature="e#102875#102876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59052">
+          <caret line="3179" column="32" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/TimeLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="245">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/thread/ThreadTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="731">
+          <caret line="439" column="57" selection-start-line="439" selection-start-column="49" selection-end-line="439" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/thread/TestThread.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/singleton/StaticSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/classLoad/ClassLoaderTest.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/FairLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/deadLock/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/interrupt/InterruptThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/volatile1/NoVisibility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threadPool/ScheduledExecutorServiceDemo.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/rejectThread/RejectThreadPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/mix-study.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RemoveElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/LengthOfLongestSubstring.java">
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        <state relative-caret-position="551">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="703">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/countdownatch/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/AddStringNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/deadLock/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/forkJoin/CountTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/thread/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/disruptor/PCData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/lib/dt.jar!/sun/swing/BeanInfoUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/CopyStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
