@@ -3,7 +3,7 @@ package com.xdf.huangli.test;
 import java.util.ArrayList;
 import java.util.List;
 
-import static sun.swing.MenuItemLayoutHelper.max;
+//import static sun.swing.MenuItemLayoutHelper.max;
 
 /**
  * @author huangli
@@ -30,10 +30,10 @@ public class TestIdea {
     private static int findMaxSum(int[] c) {
         int maxTmp = 0;
         int maxNow = 0;
-        for(int i = 0; i < c.length; i++){
-            maxNow = max(maxNow + c[i], 0);
-            maxTmp = max(maxTmp, maxNow);
-        }
+//        for(int i = 0; i < c.length; i++){
+//            maxNow = max(maxNow + c[i], 0);
+//            maxTmp = max(maxTmp, maxNow);
+//        }
 
         return maxTmp;
     }
