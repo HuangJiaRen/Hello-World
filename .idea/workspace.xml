@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/PredicateTestOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/SecurityStringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringAnaly.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringAnaly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RotateSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,23 +35,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/CopyStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringAnaly.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/StringUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -69,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
+            <state relative-caret-position="1121">
               <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
@@ -87,37 +64,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestStr.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/SecurityStringUtil.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/PredicateTestOne.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RotateSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -171,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/ChannelAccept.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/ByteBufDemo.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/CompostiteBuf.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/nio/bytebuf/CompositeBuf.java" />
@@ -212,7 +164,6 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/AddStringNumTest.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/Test2.java" />
-        <option value="$PROJECT_DIR$/mix-study/pom.xml" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/Student.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/CopyStudent.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DemoTest.java" />
@@ -222,6 +173,8 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/semaphore/LockTest.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/UninstallContext.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/PredicateTestOne.java" />
+        <option value="$PROJECT_DIR$/mix-study/pom.xml" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RotateSolution.java" />
       </list>
     </option>
   </component>
@@ -255,10 +208,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="357" />
-    <option name="y" value="56" />
-    <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="x" value="320" />
+    <option name="y" value="180" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -315,65 +268,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="cyclicbarrier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="semaphore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassloaderAndforName" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,20 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LockTest">
-    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.test.DemoTest" />
-      <module name="mix-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateSolution">
     <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.semaphore.LockTest" />
       <module name="mix-study" />
@@ -448,6 +337,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xdf.huangli.loadbalance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.leetCode.RotateSolution" />
+      <module name="mix-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xdf.huangli.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -483,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateSolution" />
         <item itemvalue="Application.LockTest" />
         <item itemvalue="Application.SemaphoreTest" />
         <item itemvalue="Application.WeightPollIng" />
         <item itemvalue="Application.PollDemo" />
-        <item itemvalue="Application.DemoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -586,7 +488,8 @@
       <workItem from="1616481621624" duration="1405000" />
       <workItem from="1616571419589" duration="1482000" />
       <workItem from="1616851971773" duration="8314000" />
-      <workItem from="1665292902203" duration="1229000" />
+      <workItem from="1665292902203" duration="3510000" />
+      <workItem from="1665362915245" duration="5384000" />
     </task>
     <task id="LOCAL-00001" summary="修改idea">
       <created>1562809486529</created>
@@ -767,7 +670,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330279000" />
+    <option name="totallyTimeSpent" value="337944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -782,7 +685,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24678111" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -793,30 +696,30 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27710843" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33734939" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29036143" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3962008" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.56626505" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.4192771" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.17951807" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.35539567" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.20731707" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Analysis" order="16" />
-      <window_info anchor="right" id="Word Book" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.18383405" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.18383405" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
@@ -990,13 +893,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="439" column="57" selection-start-line="439" selection-start-column="49" selection-end-line="439" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/reenterLock/FairLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1138,13 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1291,7 +1180,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/ThreadStatusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
+        <state relative-caret-position="1121">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
@@ -1303,13 +1192,6 @@
           <folding>
             <element signature="e#259#260#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1327,7 +1209,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/PredicateTestOne.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestIdea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RotateSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
