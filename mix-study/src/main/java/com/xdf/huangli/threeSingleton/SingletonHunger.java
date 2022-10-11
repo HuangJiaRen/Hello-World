@@ -11,15 +11,11 @@ package com.xdf.huangli.threeSingleton;
  * @since 2022-10-11 11:18
  */
 public class SingletonHunger {
-    private static SingletonHunger singleton2;
-
-    static {
-        singleton2 = new SingletonHunger();
-    }
+    private static SingletonHunger singleton2 = new SingletonHunger();
 
     private SingletonHunger() {}
 
-    public SingletonHunger getInstance() {
+    public static SingletonHunger getInstance() {
         return singleton2;
     }
 }

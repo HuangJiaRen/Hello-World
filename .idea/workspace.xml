@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/node/MainTest.java" line="45" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threeSingleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threeSingleton/SingletonHunger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threeSingleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threeSingleton/SingletonLazy.java" afterDir="false" />
-    </list>
+    <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threeSingleton/SingletonLazy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="437">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -592,7 +589,7 @@
       <workItem from="1616571419589" duration="1482000" />
       <workItem from="1616851971773" duration="8314000" />
       <workItem from="1665292902203" duration="3510000" />
-      <workItem from="1665362915245" duration="14115000" />
+      <workItem from="1665362915245" duration="14289000" />
     </task>
     <task id="LOCAL-00001" summary="修改idea">
       <created>1562809486529</created>
@@ -773,7 +770,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="346675000" />
+    <option name="totallyTimeSpent" value="346849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -786,6 +783,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -803,9 +801,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.39518073" />
       <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" visible="true" weight="0.213253" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.213253" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.24457832" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.24457832" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.35539567" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.20731707" />
@@ -1344,8 +1342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/threeSingleton/SingletonLazy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
