@@ -11,13 +11,15 @@ import java.util.stream.Stream;
  */
 public class CollectorsTest {
     public static void main(String[] args) {
-//        testToCollection();
+        testToCollection();
 
-        test();
+//        test();
     }
 
     private static void testToCollection() {
         List<Integer> list = Arrays.asList(1, 2, 3);
+        Map<String, Integer> integerMap = list.stream().map(a -> a * 10).collect(Collectors.toMap(key -> "k" + key, value -> value));
+        List<Integer> integers = list.stream().filter(l -> l != 10).collect(Collectors.toList());
 
         List<Student> studentList = Arrays.asList(new Student("张三", 10), new Student("李四", 20));
 
