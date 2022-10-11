@@ -10,16 +10,16 @@ package com.xdf.huangli.threeSingleton;
  * @author huangli
  * @since 2022-10-11 11:18
  */
-public class Singleton2 {
-    private static Singleton2 singleton2;
+public class SingletonHunger {
+    private static SingletonHunger singleton2;
 
     static {
-        singleton2 = new Singleton2();
+        singleton2 = new SingletonHunger();
     }
 
-    private Singleton2() {}
+    private SingletonHunger() {}
 
-    public Singleton2 getInstance() {
+    public SingletonHunger getInstance() {
         return singleton2;
     }
 }

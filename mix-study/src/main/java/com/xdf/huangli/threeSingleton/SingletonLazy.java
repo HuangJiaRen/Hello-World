@@ -9,14 +9,14 @@ package com.xdf.huangli.threeSingleton;
  * @author huangli
  * @since 2022-10-11 11:41
  */
-public class Singleton3 {
-    private static Singleton3 instance;
+public class SingletonLazy {
+    private static SingletonLazy instance;
 
-    private  Singleton3 () {}
+    private SingletonLazy() {}
 
-    public static Singleton3 getInstance() {
+    public static SingletonLazy getInstance() {
         if (instance == null){
-            instance = new Singleton3();
+            instance = new SingletonLazy();
         }
         return instance;
     }
