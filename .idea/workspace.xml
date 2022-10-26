@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83cb89db-5f8d-41f4-a295-e7012cb9c7d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/BigDecimalFuncTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/CommonCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/SuperCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/实例" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mix-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,63 +39,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DeepCloneTest/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="58" column="9" selection-start-line="51" selection-start-column="8" selection-end-line="58" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Streams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/jdk8/CollectorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1140">
@@ -100,14 +47,97 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/BigDecimalFuncTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="49" column="126" selection-start-line="49" selection-start-column="87" selection-end-line="49" selection-end-column="126" />
+            <state relative-caret-position="416">
+              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/CommonCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Cashier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+              <folding>
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/SuperCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/VIPCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <folding>
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/实例">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/Default.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -172,12 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MaxArea.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/IntToRoman.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/future/FutureTest.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/GenerateParenthesis.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/MergeKLists.java" />
-        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/SwapPairs.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/ReverseKGroup.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/leetCode/DivideTest.java" />
@@ -223,6 +247,12 @@
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/DeepCloneTest/Student.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/TestStr.java" />
         <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/BigDecimalFuncTest.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Customer.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/CommonCustomer.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/VIPCustomer.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/实例" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/SuperCustomer.java" />
+        <option value="$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Cashier.java" />
       </list>
     </option>
   </component>
@@ -354,7 +384,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="huangli" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="mix-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huangli" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="strategyStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
@@ -423,7 +464,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BigDecimalFuncTest">
+  <component name="RunManager" selected="Application.Cashier">
     <configuration name="BigDecimalFuncTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.test.BigDecimalFuncTest" />
       <module name="mix-study" />
@@ -437,12 +478,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.test.CopyTest" />
+    <configuration name="Cashier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xdf.huangli.strategy.strategyStudy.Cashier" />
       <module name="mix-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xdf.huangli.test.*" />
+          <option name="PATTERN" value="com.xdf.huangli.strategy.strategyStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -491,11 +532,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cashier" />
         <item itemvalue="Application.BigDecimalFuncTest" />
         <item itemvalue="Application.TestStr" />
         <item itemvalue="Application.DeepCopy" />
         <item itemvalue="Application.ShallowCopy" />
-        <item itemvalue="Application.CopyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +637,7 @@
       <workItem from="1616851971773" duration="8314000" />
       <workItem from="1665292902203" duration="3510000" />
       <workItem from="1665362915245" duration="54857000" />
-      <workItem from="1666505210089" duration="3933000" />
+      <workItem from="1666505210089" duration="4592000" />
     </task>
     <task id="LOCAL-00001" summary="修改idea">
       <created>1562809486529</created>
@@ -777,7 +818,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391350000" />
+    <option name="totallyTimeSpent" value="392009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -792,7 +833,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16881259" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23032904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -802,7 +843,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25060242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25060242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25903615" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -810,7 +851,7 @@
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.40240964" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.23614457" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.23614457" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.35539567" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.20731707" />
@@ -1012,38 +1053,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3287">
-          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/semaphore/LockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/Default.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/Hundouluo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/Maxituan.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/PlayContext.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1346,12 +1355,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/Default.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/test/BigDecimalFuncTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="49" column="126" selection-start-line="49" selection-start-column="87" selection-end-line="49" selection-end-column="126" />
+        <state relative-caret-position="416">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/VIPCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/SuperCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/实例">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/CommonCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix-study/src/main/java/com/xdf/huangli/strategy/strategyStudy/Cashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
           </folding>
         </state>
       </provider>
