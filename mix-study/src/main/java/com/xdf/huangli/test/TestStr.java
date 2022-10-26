@@ -1,5 +1,8 @@
 package com.xdf.huangli.test;
 
+import java.time.LocalDate;
+import java.util.Calendar;
+
 /**
  * <p>
  *
@@ -35,8 +38,27 @@ public class TestStr {
 //        String mailStr = SecurityStringUtil.mailStr(ae);
 //        System.out.println(mailStr);
 
-        String telPhone = "022-132";
-        String phoneStr = SecurityStringUtil.telPhoneStr(telPhone);
-        System.out.println(phoneStr);
+//        String telPhone = "022-132";
+//        String phoneStr = SecurityStringUtil.telPhoneStr(telPhone);
+//        System.out.println(phoneStr);
+//        Calendar date = Calendar.getInstance();
+//        int i = date.get(Calendar.MONTH);
+
+//        Calendar date = Calendar.getInstance();
+//        int i1 = date.get(Calendar.YEAR);
+//        System.out.println(i1);
+
+
+        String[] month = new String[12];
+        LocalDate today = LocalDate.now();
+        for(int i = 1;i <= 12; i++){
+            LocalDate localDate = today.minusMonths(i);
+//            String ss = localDate.toString().substring(0,7).replace("-", "");
+            String ss = localDate.toString().substring(0,7);
+            month[12-i] = ss;
+        }
+        for(int i = 0;i < month.length;i++) {
+            System.out.println(month[i]);
+        }
     }
 }
