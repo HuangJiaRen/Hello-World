@@ -13,7 +13,7 @@ import java.math.BigDecimal;
 public class Cashier {
     private Customer customer;
 
-    private BigDecimal cost(BigDecimal oldCost){
+    BigDecimal cost(BigDecimal oldCost){
         return customer.cost(oldCost);
     }
 
@@ -25,19 +25,5 @@ public class Cashier {
         this.customer = customer;
     }
 
-    public static void main(String[] args) {
-        Cashier cashier = new Cashier();
-        CommonCustomer commonCustomer = new CommonCustomer();
-        SuperCustomer superCustomer = new SuperCustomer();
-        VIPCustomer vipCustomer = new VIPCustomer();
-        BigDecimal bigDecimal = new BigDecimal(7.2);
-        cashier.setCustomer(commonCustomer);
-        System.out.println(cashier.cost(bigDecimal));
 
-        cashier.setCustomer(vipCustomer);
-        System.out.println(cashier.cost(bigDecimal));
-
-        cashier.setCustomer(superCustomer);
-        System.out.println(cashier.cost(bigDecimal));
-    }
 }
