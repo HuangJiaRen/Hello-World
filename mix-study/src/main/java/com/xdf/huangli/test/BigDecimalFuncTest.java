@@ -23,20 +23,21 @@ public class BigDecimalFuncTest {
 
         BigDecimal divide = decimal.divide(new BigDecimal(40000), 2, BigDecimal.ROUND_HALF_DOWN);
         // 整数部分
-        BigDecimal integerPart = divide.setScale(0, RoundingMode.DOWN);
+//        BigDecimal integerPart = divide.setScale(0, RoundingMode.DOWN);
+        BigDecimal integerPart = new BigDecimal("0");
         // 小数部分
 //        BigDecimal fractionalPart = divide.subtract(integerPart);
-        BigDecimal fractionalPart = new BigDecimal(0.65D);
+        BigDecimal fractionalPart = new BigDecimal("0.4");
 
         System.out.println(integerPart);
         System.out.println(fractionalPart + "");
 
         if(fractionalPart.compareTo(a) < 0){
-            System.out.println(integerPart);
+            System.out.println(integerPart.add(a));
         }
 
         if(fractionalPart.compareTo(a) > 0){
-            System.out.println(integerPart.add(a));
+            System.out.println(integerPart.add(new BigDecimal("1")));
         }
 
 
