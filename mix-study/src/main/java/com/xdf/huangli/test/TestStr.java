@@ -1,11 +1,17 @@
 package com.xdf.huangli.test;
 
+import cn.hutool.core.date.DateUtil;
+import cn.hutool.core.util.ObjectUtil;
 import com.xdf.huangli.util.CompareUtil;
+import org.apache.commons.lang3.time.DateUtils;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Calendar;
+import java.util.HashSet;
+import java.util.TreeMap;
 
 /**
  * <p>
@@ -66,5 +72,19 @@ public class TestStr {
         }
 
 
+        TreeMap<Object, Object> treeMap = new TreeMap<>();
+
+//        Student student = new Student();
+//        System.out.println(student.getName());
+//        System.out.println(ObjectUtil.isNull(student));
+//        System.out.println(ObjectUtil.isEmpty(student));
+
+        LocalDateTime parse = LocalDateTime.parse("2022-11-27 12:39:22", DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+        LocalDateTime parse2 = LocalDateTime.parse("2022-11-28 12:39:22", DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+        System.out.println(parse.compareTo(parse2));
+
+        if (parse.compareTo(parse2) < 0) {
+            System.out.println("运单生成时间早于订单生成时间，无法转入！");
+        }
     }
 }

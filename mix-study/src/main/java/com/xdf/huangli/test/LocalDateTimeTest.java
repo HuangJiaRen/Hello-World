@@ -27,5 +27,12 @@ public class LocalDateTimeTest {
         LocalDateTime endTime = nowTime.with(LocalTime.MAX).withDayOfMonth(nowTime.getMonth().minLength());
         System.out.println(startTime);
         System.out.println(endTime);
+
+        now.withYear(2021);
+        for (int i = 1; i <= 12; i++) {
+            LocalDate withMonth = now.withMonth(i);
+            System.out.println("m-->" + withMonth.getMonthValue());
+            System.out.println(StringUtils.addZero(withMonth));
+        }
     }
 }
