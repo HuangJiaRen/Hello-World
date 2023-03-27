@@ -1,6 +1,9 @@
 package com.xdf.huangli.test;
 
 import cn.hutool.core.bean.BeanUtil;
+import reactor.core.support.UUIDUtils;
+
+import java.util.UUID;
 
 /**
  * @author huangli
@@ -13,17 +16,24 @@ import cn.hutool.core.bean.BeanUtil;
  */
 public class DemoTest {
     public static void main(String[] args) {
-        Object obj = new Object();
-        System.out.println(obj.equals(obj));
-        System.out.println(obj.hashCode());
-        System.out.println(obj.hashCode());
+//        Object obj = new Object();
+//        System.out.println(obj.equals(obj));
+//        System.out.println(obj.hashCode());
+//        System.out.println(obj.hashCode());
+//
+//        Student student = new Student();
+//        student.setName("张三");
+//        student.setAge(10);
+//        student.setSex("男");
+//
+//        CopyStudent copyStudent = new CopyStudent();
+//        BeanUtil.copyProperties(student, copyStudent);
+//
+//        System.out.println(UUIDUtils.create());
 
-        Student student = new Student();
-        student.setName("张三");
-        student.setAge(10);
-        student.setSex("男");
 
-        CopyStudent copyStudent = new CopyStudent();
-        BeanUtil.copyProperties(student, copyStudent);
+            System.out.println("V2.2.0".compareTo("V2.1.0") != -1);
+
+        System.out.println();
     }
 }
